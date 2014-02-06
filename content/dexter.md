@@ -4,7 +4,5 @@ Tags: lottie dexter, year of code, paxman, newsnight
 Category: rant
 Slug: lottie-dexter
 Author: Fareed Dudhia
-Summary: 'Or, Lottie Dexter finds herself in two boys clubs at once'
+Summary: Or "How Lottie Dexter found herself in two boys clubs at once."
 
-# Year of Code Initiative murdered by TV appearance?
-## Or, 'Lottie Dexter finds herself in two boys clubs at once'
